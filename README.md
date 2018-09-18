@@ -17,3 +17,9 @@ build a client-side application that lists the top businesses around a specified
 - Show an alphabetically ordered list of favorite businesses. This should update as businesses are starred / unstarred.
 - Persist the favorite list locally and regenerate the view on page refresh.
 - In a README note any required setup to be able to run the app
+
+## Additions if I would of had more time
+
+- Add in animations for searching (ie loading bar)
+- Add in testing suite
+- fix up categories more to include location based ones
