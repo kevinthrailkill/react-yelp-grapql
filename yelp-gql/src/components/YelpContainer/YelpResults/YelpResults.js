@@ -10,7 +10,6 @@ const styles = theme => ({
     padding: theme.spacing.unit * 2,
     textAlign: 'center',
     color: theme.palette.text.secondary,
-    marginBottom: '20px',
     height: '70vh',
     overflow: 'scroll'
   }

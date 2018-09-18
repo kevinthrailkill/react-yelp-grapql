@@ -14,7 +14,7 @@ const styles = theme => ({
     padding: theme.spacing.unit * 2,
     flexGrow: 1,
     color: theme.palette.text.secondary,
-    marginBottom: '30px',
+    margin: '20px',
     textAlign: 'left'
   },
   favorite: {
