@@ -12,9 +12,6 @@ const makeQuery = ({ zipcode, radius, category }) => {
         display_phone
         rating
         review_count
-        categories {
-          title
-        }
         location {
           formatted_address
         }
