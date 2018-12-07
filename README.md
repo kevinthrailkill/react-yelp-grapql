@@ -5,7 +5,9 @@ build a client-side application that lists the top businesses around a specified
 
 # START APPLICATION + PROXY
 
-- npm run dev
+- you need to run npm install twice. once in the proxy dir and then once in the client.
+
+- npm run dev when in the main proxy dir
 
 ## Requirements
 
